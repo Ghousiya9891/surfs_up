@@ -18,7 +18,7 @@ The purpose of this analysis is to compare the temparatures in different months 
 
 Below are the results determined after the analysis of data.
 
-![June_statistics](Resources/June_statistics.png)       ![December_statistics](Resources/December_statistics.pngDecember_statistics.png)
+![June_statistics](Resources/June_statistics.png)       ![December_statistics](Resources/December_statistics.png)
 
 - The count in June month is 1700 whearas in December is 1517 which counts to around 10% reduction
 - Minimum temp is June is 64 and December is 56
